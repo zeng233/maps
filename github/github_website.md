@@ -8,3 +8,5 @@
 [https://bounty.github.com/](https://bounty.github.com/)安全相关
 
 [http://training.github.com/](http://training.github.com/)github培训
+
+[https://developer.github.com/](https://developer.github.com/)开发应用、服务等，参考用户设置
