@@ -4,5 +4,5 @@
 
 
 ## 事件-监听 ##
-![event-listener](https://raw.githubusercontent.com/zeng233/maps/master/images/DesignPattern/observer/Event_Listener.jpg)
+![event-listener](https://github.com/zeng233/maps/raw/master/images/DesignPattern/observer/Event_Listener.jpg)
 
